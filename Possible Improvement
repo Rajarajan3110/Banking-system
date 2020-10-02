@@ -1,0 +1,11 @@
+You can use single line "if and else" to reduce your code line:
+
+Format of single line if and else:
+value_when_true if condition else value_when_false
+
+for example: 
+
+fruit = 'Apple'
+isApple = True if fruit == 'Apple' else False
+
+For more information you can visit: https://stackoverflow.com/questions/2802726/putting-a-simple-if-then-else-statement-on-one-line
